@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shaq1709
 - 👀 I’m interested in developing a website
-- 🌱 I’m currently learning javacript
+- 🌱 I’m currently learning javacript & Python
 - 💞️ I’m looking to collaborate on building a website
 - 📫 How to reach me ? Via email :shaquilleforde1709@gmail.com
 
